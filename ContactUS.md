@@ -1,6 +1,6 @@
 # 联系我们
 
-Puzzles.Game 为您提供工作时间内的技术支持服务
+2048 APP 为您提供工作时间内的技术支持服务
 
 周一至周五：9：30-6：30 周六周日：10：00-5：30
 
@@ -10,7 +10,7 @@ Puzzles.Game 为您提供工作时间内的技术支持服务
 
 # Contact US
 
-Puzzles.Game provides you with technical support services during working hours
+2048 APP provides you with technical support services during working hours
 
 Monday to Friday: 9: 30-6: 30 Saturday and Sunday: 10: 00-5: 30
 
